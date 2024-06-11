@@ -16,7 +16,7 @@ Le diagramme de séquence suivant illustre l'interaction entre les différentes 
 ## API REST (documentation)
 L'API REST permet d'accéder aux données de l'Index EgaPro via des appels HTTP. Les données sont retournées au format JSON.
 
-Exemple de requete : 127.0.0.1:5000/apidocs
+Exemple de requete : http://127.0.0.1:5000/apidocs
 
 ![image](https://github.com/matthieuvrn/Exo15Brun/assets/148461115/e1fe0539-12a8-4040-9a17-5266615dfa7e)
 
@@ -27,7 +27,7 @@ Exemple de requete : 127.0.0.1:5000/apidocs
 ## API SOAP (documentation)
 L'API SOAP permet d'accéder aux données via des messages XML envoyés sur HTTP.
 
-Exemple de requete : 127.0.0.1:8000/?wsdl
+Exemple de requete : http://127.0.0.1:8000/?wsdl
 
 ![image](https://github.com/matthieuvrn/Exo15Brun/assets/148461115/aab4af0f-172c-4f7e-b5aa-167ff3b38ce7)
 
